@@ -1,0 +1,7 @@
+{
+  "name": "webhook-proxy",
+  "version": "1.0.0",
+  "description": "stop.",
+  "main": "api/webhook.js",
+  "type": "module"
+}
